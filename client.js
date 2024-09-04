@@ -43,8 +43,8 @@ let isAnchoring = false;
 
 // Add these new variables near the top of your file
 let tokenSource = 'glb'; // Switch to 'glb'
-const glbSource = '/Barbarian.glb';
-const glbTexturePath = '/barbarian_texture.png';
+const glbSource = '/vtt/Barbarian.glb';
+const glbTexturePath = '/vtt/barbarian_texture.png';
 
 // Add these variables near the top of your file
 let ambientLight, directionalLight;
